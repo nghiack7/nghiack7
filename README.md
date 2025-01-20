@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/{nghianguyen}/count.svg"
+    src="https://profile-counter.glitch.me/{nghiack7}/count.svg"
     alt="Nghia Nguyen :: Visitor's Count 👀"
   />&nbsp Personal &nbsp  
   <img
